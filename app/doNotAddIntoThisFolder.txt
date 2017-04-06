@@ -1,0 +1,1 @@
+Don't add files into /app folder! this will be generated
